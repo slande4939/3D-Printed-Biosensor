@@ -24,6 +24,9 @@ The current work is funded by the NSF EPSCoR CIMM project under award #OIA-15410
 
 # References
 [1] http://www.cdc.gov/ncezid/dfwed/PDFs/national-stec-surveillance-overiew-508c.pdf
+
 [2] http://www.water-research.net/index.php/bacteria
+
 [3] http://www.meridianbioscience.com/diagnostic-products/foodborne/immunocard-stat/immunocard-stat-e-coli-o157-plus.aspx
+
 [4] https://www.epa.gov/dwreginfo/revised-total-coliform-webinar-primacy-agencies
